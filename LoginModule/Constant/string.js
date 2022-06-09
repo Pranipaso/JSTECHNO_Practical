@@ -1,0 +1,9 @@
+export const enterEmail='Enter Email';
+export const enterPassword='Enter Password';
+export const emptyEmail="Email can't be empty.";
+export const passwordEmpty='password must have minimum 8 chracters';
+export const oneUpperCase = 'Password must have at least one upper case letter';
+export const oneSpecialLetter = 'Password must have at least one special letter';
+export const oneNumber = 'Password must have at least one number';
+export const oneLetter = 'Password must have at least one Alphabetical letter';
+export const login='Login';
